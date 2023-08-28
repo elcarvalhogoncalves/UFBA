@@ -9,7 +9,6 @@ Este repositório é organizado de acordo com as diferentes disciplinas, projeto
 
 - **MATA37 - Introdução à Lógica de Programação:**
   - [Atividade 1](caminho/para/atividade1): Descrição breve da atividade ou projeto.
-  - [Atividade 2](caminho/para/atividade2): Descrição breve da atividade ou projeto.
   - (EM BREVE)
 
 - **MATA57 - Laboratório de Programação I:**
