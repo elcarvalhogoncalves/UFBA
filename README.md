@@ -8,8 +8,8 @@ Bem-vindo ao meu Portfólio de Atividades, onde compartilho as resoluções de a
 Este repositório é organizado de acordo com as diferentes disciplinas, projetos e atividades que realizei. Aqui estão algumas seções principais:
 
 - **MATA37 - Introdução à Lógica de Programação:**
-  - [Atividade 1](caminho/para/atividade1): Descrição breve da atividade ou projeto.
-  - (EM BREVE)
+  - [Lista 1](MATA37%20-%20Introdução%20à%20Lógica%20de%20Programação/Lista1%20-%20Expressões%20aritméticas): Expressões aritméticas.
+  - (EM BREVE) 
 
 - **MATA57 - Laboratório de Programação I:**
   - [Atividade 1](caminho/para/atividade1): Descrição breve da atividade ou projeto.
