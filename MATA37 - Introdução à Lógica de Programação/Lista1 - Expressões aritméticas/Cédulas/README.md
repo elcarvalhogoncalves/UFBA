@@ -1,5 +1,5 @@
 
-# Soma Simples
+# Cédulas
 
 O Enunciado da questão se encontra no [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1018).
 

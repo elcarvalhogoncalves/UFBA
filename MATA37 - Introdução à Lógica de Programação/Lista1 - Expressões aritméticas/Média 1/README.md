@@ -1,7 +1,7 @@
 
-# Soma Simples
+# Média 1
 
-O Enunciado da questão se encontra no [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1002).
+O Enunciado da questão se encontra no [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/1005).
 
 
 ## Atividade em outras linguagens
@@ -9,6 +9,6 @@ O Enunciado da questão se encontra no [Beecrowd](https://www.beecrowd.com.br/ju
 
 | Linguagem   | Repositório                           |
 | :---------- | :---------------------------------- |
-| `C++` | [Área do Círculo](./C++/) |
+| `C++` | [Média 1](./C++/) |
 
 
