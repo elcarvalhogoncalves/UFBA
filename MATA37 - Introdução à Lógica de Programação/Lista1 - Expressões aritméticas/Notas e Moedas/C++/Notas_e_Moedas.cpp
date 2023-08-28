@@ -1,0 +1,45 @@
+#include <iostream>
+	using namespace std;
+	int main() {
+	double N;
+	long long C,DC,DV,DX,UC,UD,U1,U,UCI,UV,UX,UZ,UZ1;
+	cin >> N;
+	U=N*100;
+	C=U/10000;
+	U=U%10000;
+	DC=U/5000;
+	U=U%5000;
+	DV=U/2000;
+	U=U%2000;
+	DX=U/1000;
+	U=U%1000;
+	UC=U/500;
+	U=U%500;
+	UD=U/200;
+	U=U%200;
+	U1=U/100;
+    U=U%100;
+	UCI=U/50;
+	U=U%50;
+	UV=U/25;
+	U=U%25;
+	UX=U/10;
+	U=U%10;
+	UZ=U/5;
+	U=U%5;
+	UZ1=U/1;
+	cout << "NOTAS:" << endl;			
+	cout << C << " nota(s) de R$ 100.00" << endl;
+	cout << DC << " nota(s) de R$ 50.00" << endl;
+	cout << DV << " nota(s) de R$ 20.00" << endl;
+	cout << DX << " nota(s) de R$ 10.00" << endl;
+	cout << UC << " nota(s) de R$ 5.00" << endl;
+	cout << UD << " nota(s) de R$ 2.00" << endl;
+	cout << "MOEDAS:" << endl;
+	cout << U1 << " moeda(s) de R$ 1.00" << endl;
+	cout << UCI << " moeda(s) de R$ 0.50" << endl;
+	cout << UV << " moeda(s) de R$ 0.25" << endl;
+	cout << UX << " moeda(s) de R$ 0.10" << endl;
+	cout << UZ << " moeda(s) de R$ 0.05" << endl;
+	cout << U << " moeda(s) de R$ 0.01" << endl;
+}
